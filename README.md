@@ -11,6 +11,7 @@
 ###
 
 <br clear="both">
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bruno-Camargo-V3ktor&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
