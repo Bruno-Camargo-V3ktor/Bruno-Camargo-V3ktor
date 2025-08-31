@@ -151,41 +151,12 @@ Fork on Github
 
 ###
 
-<p align="left"></p>
+<br/>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-Github
-Donate
-Privacy Policy
-Level Up Your README
+<img src="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/snake.svg" alt="Snake animation" />
 
-Anyone can use templates — but when you know what you’re doing, it shows.
-
-👉 Explore resources that will upgrade your skills — and your README. Start now.
-Boost Your Dev Career
-
-Master one of the most sought-after technologies in the world!
-Become a Typescript Master
-Clean Architecture
-
-Software Architecture Solutions from Uncle Bob.
-Get the book
-Explore More Books
-
-Browse the full list of curated titles to boost your coding skills.
-More books
-💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
-
-Profile Readme Generator
+###
