@@ -1,4 +1,9 @@
-<h1 align="center">Hey, I’m Bruno Camargo! 👋</h1>
+.github/workflows
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
+<h1 align="left">Hey, I’m Bruno Camargo! 👋</h1>
 
 ###
 
@@ -140,7 +145,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Bruno-Camargo-V3ktor&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=10&order=3" height="500" alt="streak graph"  />
 </div>
 
@@ -157,3 +162,30 @@
 </picture>
 
 ###
+
+A white circle with a dark file icon outlined in the center
+Profile Readme Generator
+Developed and maintained by Mauro de Souza
+Github
+Donate
+Privacy Policy
+Level Up Your README
+
+Anyone can use templates — but when you know what you’re doing, it shows.
+
+👉 Explore resources that will upgrade your skills — and your README. Start now.
+Boost Your Dev Career
+
+Master one of the most sought-after technologies in the world!
+Become a Typescript Master
+Clean Architecture
+
+Software Architecture Solutions from Uncle Bob.
+Get the book
+Explore More Books
+
+Browse the full list of curated titles to boost your coding skills.
+More books
+💡 This panel contains affiliate links. If you find something useful and make a purchase, I may earn a small commission ☕. Thanks for the support ❤
+
+Profile Readme Generator
