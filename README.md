@@ -1,69 +1,159 @@
-<h1 align="left">Olá, meu nome é Bruno Camargo!<br>Desenvolvedor Fullstack</h1>
+<h1 align="center">Hey, I’m Bruno Camargo! 👋</h1>
 
 ###
 
-<img align="left" height="180" src="https://lh3.googleusercontent.com/a/ACg8ocJFKfnqSZ9dqpTJE711b8DQITpUpkTk1pwhhfkoGSWdEdUztQ=s315-c-no"  />
-
-###
-
-<h3 align="left">Atualmente trabalhando na Albras Metalúrgica (TI)<br><br>- FrontEnd: JavaScript, TypeScript, React, React Native.<br>- BackEnd: Java, SpringBoot, MySQL, MongoDB.<br><br>Interesses futuros: Rust e Golang.</h3>
-
-###
-
-<br clear="both">
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Bruno-Camargo-V3ktor&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Bruno-Camargo-V3ktor&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bruno-Camargo-V3ktor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&custom_title=Linguagens" height="160" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@v3ktor__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+<div align="left">
+  <a href="https://www.linkedin.com/in/bruno-camargo-v3ktor/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
   </a>
+  <a href="mailto:bruno.ferreira.v3ktor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   <a href="https://www.instagram.com/brunoo_ferreirasz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
-  <a href="mailto:v3ktoryt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://br.linkedin.com/in/bruno-camargo-ferreira-b014452aa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://dev.to/v3ktor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="30" alt="devto logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<p align="left"></p>
 
-<img src="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/snake.svg" alt="Snake animation" />
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I’m currently pursuing a **degree in Computer Science**, where I’m building a solid foundation in software development, computer systems, and emerging technologies. My journey blends academic learning with hands-on projects, giving me experience from **embedded systems** to **full-stack applications**.<br><br>- 🔭 I’m working at **Albras Metalúrgica** as an IT Analyst, Support Specialist, and Junior Developer.<br><br>- 📚 I’m currently learning about **WebAssembly** and diving deeper into **microcontrollers**<br><br>- ⚡ In my free time, I enjoy watching videos about **algorithms** and exploring new tech ideas</p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🛠 Languages & Databases</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🛠 Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rocket" height="40" alt="rocket logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=actix" height="40" alt="actix logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bevy" height="40" alt="bevy logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🛠 Tools & Operating systems</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=regex" height="40" alt="regex logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Bruno-Camargo-V3ktor&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=10&order=3" height="500" alt="streak graph"  />
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bruno-Camargo-V3ktor/Bruno-Camargo-V3ktor/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
