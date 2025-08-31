@@ -1,8 +1,3 @@
-.github/workflows
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <h1 align="left">Hey, I’m Bruno Camargo! 👋</h1>
 
 ###
@@ -25,7 +20,7 @@ Fork on Github
 
 ###
 
-<p align="left"></p>
+<br/>
 
 ###
 
@@ -33,11 +28,11 @@ Fork on Github
 
 ###
 
-<p align="left">I’m currently pursuing a **degree in Computer Science**, where I’m building a solid foundation in software development, computer systems, and emerging technologies. My journey blends academic learning with hands-on projects, giving me experience from **embedded systems** to **full-stack applications**.<br><br>- 🔭 I’m working at **Albras Metalúrgica** as an IT Analyst, Support Specialist, and Junior Developer.<br><br>- 📚 I’m currently learning about **WebAssembly** and diving deeper into **microcontrollers**<br><br>- ⚡ In my free time, I enjoy watching videos about **algorithms** and exploring new tech ideas</p>
+<h4 align="left">I’m currently pursuing a <strong>degree in Computer Science</strong>, where I’m building a solid foundation in software development, computer systems, and emerging technologies. My journey blends academic learning with hands-on projects, giving me experience from <strong>embedded systems</strong> to <strong>full-stack applications</strong>.<br><br>- 🔭 I’m working at <strong>Albras Metalúrgica</strong> as an IT Analyst, Support Specialist, and Junior Developer.<br><br>- 📚 I’m currently learning about <strong>WebAssembly</strong> and diving deeper into <strong>microcontrollers</strong><br><br>- ⚡ In my free time, I enjoy watching videos about <strong>algorithms</strong> and exploring new tech ideas</p>
 
 ###
 
-<p align="left"></p>
+<br/>
 
 ###
 
@@ -69,7 +64,7 @@ Fork on Github
 
 ###
 
-<p align="left"></p>
+<br/>
 
 ###
 
@@ -101,7 +96,7 @@ Fork on Github
 
 ###
 
-<p align="left"></p>
+<br/>
 
 ###
 
@@ -133,11 +128,7 @@ Fork on Github
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
+<br/>
 
 ###
 
