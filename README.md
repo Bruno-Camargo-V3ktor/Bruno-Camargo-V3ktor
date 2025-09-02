@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<h4 align="left">I’m currently pursuing a <strong>degree in Computer Science</strong>, where I’m building a solid foundation in software development, computer systems, and emerging technologies. My journey blends academic learning with hands-on projects, giving me experience from <strong>embedded systems</strong> to <strong>full-stack applications</strong>.<br><br>- 🔭 I’m working at <strong>Albras Metalúrgica</strong> as an IT Analyst, Support Specialist, and Junior Developer.<br><br>- 📚 I’m currently learning about <strong>WebAssembly</strong> and diving deeper into <strong>microcontrollers</strong><br><br>- ⚡ In my free time, I enjoy watching videos about <strong>algorithms</strong> and exploring new tech ideas</p>
+<h3 align="left">I’m currently pursuing a <strong>degree in Computer Science</strong>, where I’m building a solid foundation in software development, computer systems, and emerging technologies. My journey blends academic learning with hands-on projects, giving me experience from <strong>embedded systems</strong> to <strong>full-stack applications</strong>.<br><br>- 🔭 I’m working at <strong>Albras Metalúrgica</strong> as an IT Analyst, Support Specialist, and Junior Developer.<br><br>- 📚 I’m currently learning about <strong>WebAssembly</strong> and diving deeper into <strong>microcontrollers</strong><br><br>- ⚡ In my free time, I enjoy watching videos about <strong>algorithms</strong> and exploring new tech ideas</p>
 
 ###
 
